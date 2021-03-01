@@ -1,2 +1,0 @@
-# tushar-sBlog
-my site
